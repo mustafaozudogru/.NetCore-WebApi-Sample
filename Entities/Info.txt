@@ -1,0 +1,1 @@
+﻿Model Scaffoler = Scaffold-DbContext "Server=.\;Database=NORTHWND;User ID=sa; Password=1qaz2wsX;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
